@@ -1,4 +1,6 @@
-## Hi there, I'm Felipe Amorim 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Felipe+Amorim!;" />
+</h1>
 
 <!--
 **LipeAKugel/LipeAKugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +30,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/LipeAKugel">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LipeAKugel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeAKugel&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LipeAKugel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeAKugel&layout=compact&langs_count=7&theme=react"/>
 </div>
