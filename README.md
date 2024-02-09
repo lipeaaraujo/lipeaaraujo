@@ -28,8 +28,8 @@ also working on personal projects, looking to learn and experience new stuff.
 ### languages and technologies:
 
 <table border="0px">
-<tr border="none">
-<td border="none">
+<tr>
+<td width=500>
     
 **preferred languages:**
 
@@ -54,7 +54,7 @@ also working on personal projects, looking to learn and experience new stuff.
 <code><img height="30" src="https://avatars.githubusercontent.com/u/20628127?s=200&v=4"></code>
 
 </td>
-<td border="none">
+<td width=500>
 
 **webdev:**
 
