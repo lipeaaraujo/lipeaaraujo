@@ -93,7 +93,7 @@ you can reach me at the [email](mailto:felipearaujodff@gmail.com) in my github p
 
 ### MY GITHUB STATS
 <div align="center">
-  <a href="https://github.com/LipeAKugel">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LipeAKugel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeAKugel&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/lipeaaraujo">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lipeaaraujo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaaraujo&layout=compact&langs_count=7&theme=react"/>
 </div>
