@@ -88,9 +88,6 @@ currently i'm studying backend development, infrastructure and deployment tools 
 </tr>
 </table>
 
-### CONTACT
-you can reach me at the [email](mailto:felipearaujodff@gmail.com) in my github profile or in my socials.
-
 ### FUN FACTS
 - ♟️ i've won a chess state championship in highschool.
 - 🔭 i have a childhood passion for astronomy and astrophysics.
