@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 -->
 
 ### ABOUT ME
-i'm a software engineering student at Universidade de Brasília (FGA campus). i'm currently in the 5th semester and trying to participate in new projects and learn new technologies.
+i'm a software engineering student at Universidade de Brasília (FGA campus) in Brasília/Brazil. i'm currently in the 6th semester and trying to participate in new projects and learn new technologies.
 my passion for software comes from the experience of always learning something new, i take care of the architecture and code quality of everything I build.
 
 ### EXPERIENCE
-i have experience in full-stack development through college projects. i'm also a game development enthusiast.<br>
-also working on personal projects, looking to learn and experience new stuff.
+i have experience in full-stack and game development through college projects.
+
+currently i'm studying backend development, infrastructure and deployment tools like Docker and K8s and working on personal projects to increase my portfolio.
 
 ### languages and technologies:
 
@@ -31,53 +32,57 @@ also working on personal projects, looking to learn and experience new stuff.
 <tr>
 <td width=500>
     
-**preferred languages:**
+**my stack:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
+<code><img height="30" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="30" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
+<code><img height="30" title="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
 
-**other languages:**
+**my webdev stack:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4"></code>
+<code><img height="30" title="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></code>
+<code><img height="30" title="NodeJS" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code>
+<code><img height="30" title="Express" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"></code>
+<code><img height="30" title="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
 
-**source control:**
+**databases:**
 
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
+<code><img height="30" title="MongoDB" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
+<code><img height="30" title="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"></code>
+<code><img height="30" title="Postgres" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"></code>
 
-**game dev:**
+**other languages i've worked with:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/20628127?s=200&v=4"></code>
+<code><img height="30" title="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"></code>
+<code><img height="30" title="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<code><img height="30" title="RISC-V Assembly" src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4"></code>
+<code><img height="30" title="VHDL" src="https://user-images.githubusercontent.com/45159366/140835334-44308718-d96d-4eaa-b2a1-c74d64910e67.png"></code>
+
 
 </td>
 <td width=500>
 
-**webdev:**
-
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></code>
-<code><img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"></code>
-
-**databases:**
-
-<code><img height="30" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
-<code><img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"></code>
-
 **devops:**
 
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></code>
+<code><img height="30" title="Docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></code>
+<code><img height="30" title="Docker Compose" src="https://github.com/docker/compose/raw/main/logo.png?raw=true"></code>
+<code><img height="30" title="Kubernetes" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg"></code>
 
-**operating systems:**
+**other webtools:**
 
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
+<code><img height="30" title="NextJS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg"></code>
+<code><img height="30" title="Prisma" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"></code>
+
+**source control:**
+
+<code><img height="30" title="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
+<code><img height="30" title="GitHub" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
+
+**game dev:**
+
+<code><img height="30" title="GameMakerStudio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png"></code>
+<code><img height="30" title="Pygame" src="https://avatars.githubusercontent.com/u/20628127?s=200&v=4"></code>
+<code><img height="30" title="Godot" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Godot-Dark.svg"></code>
 
 </td>
 </tr>
@@ -87,8 +92,9 @@ also working on personal projects, looking to learn and experience new stuff.
 you can reach me at the [email](mailto:felipearaujodff@gmail.com) in my github profile or in my socials.
 
 ### FUN FACTS
+- ♟️ i've won a chess state championship in highschool.
 - 🔭 i have a childhood passion for astronomy and astrophysics.
-- 🎮 favorite games: minecraft and geometry dash.
+- 🎮 current favorite games: minecraft and geometry dash.
 
 
 ### MY GITHUB STATS
