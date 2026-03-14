@@ -17,16 +17,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ABOUT ME
+
+```json
+{
+  "name": "Felipe Amorim",
+  "role": "Fullstack Software Developer",
+  "university": "University of Brasília (UnB)",
+  "interests": [
+    "Web Development",
+    "System Design",
+    "DevOps",
+    "Game Development",
+    "Automated Testing"
+  ],
+}
+```
+## TECHNOLOGIES
+
+```json
+{
+  "tech_stack": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Go"],
+    "frameworks": ["Vue.js", "React Native", "AWS Serverless", "Django", "Electron"],
+    "databases": ["DynamoDB", "PostgreSQL", "MongoDB"],
+    "devops": ["Docker", "Docker Compose", "Kubernetes"],
+    "gamedev": ["Godot", "Pygame", "GameMaker Studio"],
+  },
+  "current_focus": [
+    "Learning more about the Go programming language",
+    "Agents, skills, AI tools and concepts",
+    "System design and development of scalable applications",
+    "Improving problem solving through competitive programming",
+  ],
+}
+```
+
+## FUN FACTS
+- ♟️ i've won a chess state championship in highschool.
+- 🔭 i have a childhood passion for astronomy and astrophysics.
+- 🎮 current favorite games: minecraft and geometry dash.
+
+## STATS
+<div align="center">
+  <a href="https://github.com/lipeaaraujo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lipeaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaaraujo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<!--
 ### ABOUT ME
-i'm a software engineering student at Universidade de Brasília (FGA campus) in Brasília/Brazil. i'm currently in the 6th semester and trying to participate in new projects and learn new technologies.
-my passion for software comes from the experience of always learning something new, i take care of the architecture and code quality of everything I build.
+I'm a software engineering student at Universidade de Brasília (FCTE campus) in Brasília/Brazil.
 
-### EXPERIENCE
-i have experience in full-stack and game development through college projects.
+Currently working as a fullstack software enginner with **Vue.js**, **AWS Serverless**, **Django**, **React Native** and **Electron**. I also have experience working as a QA intern with software quality, DevOps and automated test tools.
 
-currently i'm studying backend development, infrastructure and deployment tools like Docker and K8s and working on personal projects to increase my portfolio.
-
-### languages and technologies:
+### THINGS I'VE WORKED WITH:
 
 <table border="0px">
 <tr>
@@ -88,15 +133,8 @@ currently i'm studying backend development, infrastructure and deployment tools 
 </tr>
 </table>
 
-### FUN FACTS
-- ♟️ i've won a chess state championship in highschool.
-- 🔭 i have a childhood passion for astronomy and astrophysics.
-- 🎮 current favorite games: minecraft and geometry dash.
 
 
-### MY GITHUB STATS
-<div align="center">
-  <a href="https://github.com/lipeaaraujo">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lipeaaraujo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaaraujo&layout=compact&langs_count=7&theme=react"/>
-</div>
+
+
+-->
